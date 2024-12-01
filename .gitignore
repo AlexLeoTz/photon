@@ -1,0 +1,5 @@
+/vendor/
+/storage/*.json
+/storage/*.sqlite
+.env
+.DS_Store 
